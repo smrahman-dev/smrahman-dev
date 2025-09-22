@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=650&height=85&lines=SM+Rahman+here+%7C+aka+Sam;Debugging+life+one+dataset+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=650&height=85&lines=SM+Rahman+here+%7C+aka+Sam;Debugging+life+one+dataset+at+a+time" alt="Typing SVG" />
 <p><strong>Backend tinkerer, always deploying</strong></p>
 </div>
 
