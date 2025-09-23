@@ -20,7 +20,7 @@ Hey! I'm **S.M Rahman**. *Dive in and explore my projects!*
 
 ## 🛠️ Tech Stack
  
-![Skillset](https://skillicons.dev/icons?i=c,py,html,css,js,fastapi,git,mysql,opencv,vercel)
+![Skillset](https://skillicons.dev/icons?i=c,py,django,html,css,js,git,mysql,opencv,vercel)
 
 ---
 
