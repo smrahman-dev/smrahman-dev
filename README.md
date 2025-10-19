@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-I’m a full-stack engineer exploring the intersection of intelligence and the web. *Dive in and explore my projects!*
+I’m an aspiring full-stack engineer exploring the intersection of intelligence and the web. *Dive in and explore my projects!*
 
 
 ## 🎯 The Vibe
